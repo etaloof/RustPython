@@ -1,6 +1,10 @@
+
 image:
   file: .gitpod.Dockerfile
 
 vscode:
   extensions:
-    - vadimcn.vscode-lldb@1.5.3:vTh/rWhvJ5nQpeAVsD20QA==
+    - ms-azuretools.vscode-docker
+    - rust-lang.rust-analyzer
+    - fill-labs.dependi
+    - SanjulaGanepola.github-local-actions
